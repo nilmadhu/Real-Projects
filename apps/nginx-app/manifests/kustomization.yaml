@@ -1,3 +1,7 @@
 resources:
   - deployment.yaml
   - service.yaml
+  - nginx-exporter.yaml
+  - nginx-exporter-service.yaml
+  - nginx-servicemonitor.yaml
+
