@@ -4,4 +4,5 @@ resources:
   - nginx-exporter.yaml
   - nginx-exporter-service.yaml
   - nginx-servicemonitor.yaml
+  - nginx-configmap.yaml
 
